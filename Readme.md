@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/web_site/Default.aspx) (VB: [Default.aspx.vb](./VB/web_site/Default.aspx.vb))
+* [Default.aspx](./CS/web_site/Default.aspx) (VB: [Default.aspx](./VB/web_site/Default.aspx))
 * [Default.aspx.cs](./CS/web_site/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/web_site/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView -  add the NewItemRow (when the new row is always visible)
