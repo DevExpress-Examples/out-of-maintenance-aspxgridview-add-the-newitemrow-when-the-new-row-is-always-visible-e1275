@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/web_site/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/web_site/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView -  add the NewItemRow (when the new row is always visible)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1275/)**
+<!-- run online end -->
 
 
 <p>The following example shows how to make the form used for row editing always visible. To implement this, you should add some lines of code onto the form page.</p>
